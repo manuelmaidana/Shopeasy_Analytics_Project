@@ -32,6 +32,6 @@ ShopEasy, an online retail business, is facing reduced customer engagement and c
 
 ### Data Overview
 
-[**Shopeasy Dataset**](https://github.com/manuelmaidana/Shopeasy_Analytics_Project/blob/main/Shopeasy_DB.bak) : The data used from this project is a public dataset from Shopeasy, you can access it throgh this repository
+[**Shopeasy Dataset**](https://github.com/manuelmaidana/Shopeasy_Analytics_Project/blob/main/Shopeasy_DB.bak) :The dataset used in this project is publicly available and can be accessed through this GitHub repository
 
 
