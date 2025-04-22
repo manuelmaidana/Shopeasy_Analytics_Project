@@ -23,7 +23,7 @@ ShopEasy, an online retail business, is facing reduced customer engagement and c
 
 ## Northstar Metrics
 
-###Key Performance Indicators (KPIs)
+### Key Performance Indicators (KPIs)
 
 * Conversion Rate: Percentage of website visitors who make a purchase.
 * Customer Engagement Rate: Level of interaction with marketing content (clicks, likes, comments).
