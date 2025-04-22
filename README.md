@@ -7,7 +7,7 @@ Data science project for fun and self-learning.
 ## Intoduction
 ShopEasy, an online retail business, is facing reduced customer engagement and conversion rates despite launching several new online marketing campaigns.
 
-#### Goals:
+### Goals
 * Increase Conversion Rates:
   * Goal: Identify factors impacting the conversion rate and provide recommendations to improve it.
   * Insight: Highlight key stages where visitors drop off and suggest improvements to optimize the conversion funnel.
