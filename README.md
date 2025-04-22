@@ -30,4 +30,6 @@ ShopEasy, an online retail business, is facing reduced customer engagement and c
 * **Average Order Value (AOV)**: Average amount spent by a customer per transaction.
 * **Customer Feedback Score**: Average rating from customer reviews.
 
+### Data Overview
 
+Public Dataset
