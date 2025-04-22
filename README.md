@@ -25,9 +25,9 @@ ShopEasy, an online retail business, is facing reduced customer engagement and c
 
 ### Key Performance Indicators (KPIs)
 
-* Conversion Rate: Percentage of website visitors who make a purchase.
-* Customer Engagement Rate: Level of interaction with marketing content (clicks, likes, comments).
-* Average Order Value (AOV): Average amount spent by a customer per transaction.
-* Customer Feedback Score: Average rating from customer reviews.
+* **Conversion Rate**: Percentage of website visitors who make a purchase.
+* **Customer Engagement Rate**: Level of interaction with marketing content (clicks, likes, comments).
+* **Average Order Value (AOV)**: Average amount spent by a customer per transaction.
+* **Customer Feedback Score**: Average rating from customer reviews.
 
 
