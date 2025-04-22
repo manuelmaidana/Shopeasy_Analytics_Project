@@ -1,7 +1,7 @@
 # Shopeasy Analytics Project
 Data science project for fun and self-learning.
 
-*Primary tools: pandas, numpy, matplotlib, seaborn, sklearn, statsmodels, fbprophet, nltk, and pygsheets.
+* Primary tools: pandas, numpy, matplotlib, seaborn, sklearn, statsmodels, fbprophet, nltk, and pygsheets.
 
 ## Intoduction
 ShopEasy, an online retail business, is facing reduced customer engagement and conversion rates despite launching several new online marketing campaigns.
