@@ -1,4 +1,4 @@
-# Shopeasy Analytics Project
+# Shopeasy Analytics EDA Project
 
 Data science project for fun and self-learning.
 
