@@ -32,4 +32,5 @@ ShopEasy, an online retail business, is facing reduced customer engagement and c
 
 ### Data Overview
 
-Public Dataset
+[Shopeasy Dataset](https://github.com/your-username/your-repo/blob/main/data/Shopeasy.bak](https://github.com/manuelmaidana/Shopeasy_Analytics_Project/blob/main/Shopeasy_DB.bak)
+
