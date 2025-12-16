@@ -1,6 +1,6 @@
 # Shopeasy Analytics EDA Project
 
-Data science project for fun and self-learning.
+Data science project for self-learning.
 
 *Primary tools: pandas, numpy, matplotlib, seaborn, sklearn, statsmodels, fbprophet, nltk, and pygsheets*.
 
